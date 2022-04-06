@@ -4,7 +4,7 @@
  * @Author: ared
  * @Date: 2022-03-26 18:45:35
  * @LastEditors: ared
- * @LastEditTime: 2022-04-05 15:45:30
+ * @LastEditTime: 2022-04-06 20:41:38
  */
 
 // import './logic/array-rotate'
@@ -14,7 +14,7 @@
 // import './logic/queue-with-list'
 // import './logic/binary-search'
 // import './logic/two-numbers-sum'
-
-import './logic/binary-search-tree'
+// import './logic/binary-search-tree'
+import './logic/fibonacci'
 
 console.log('index')

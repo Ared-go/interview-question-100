@@ -4,7 +4,7 @@
  * @Author: ared
  * @Date: 2022-04-05 15:31:26
  * @LastEditors: ared
- * @LastEditTime: 2022-04-05 16:30:44
+ * @LastEditTime: 2022-04-06 20:20:18
  */
 
 interface ITreeNode {
@@ -15,7 +15,7 @@ interface ITreeNode {
 
 
 let arr:number[] = []
-
+// 寻找二叉搜索树的第k小值
 export function getKthValue(node:ITreeNode, k:number): number | null {
   inOrderTraverse(node)
   console.log(arr)
