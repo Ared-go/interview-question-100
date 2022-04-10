@@ -4,7 +4,7 @@
  * @Author: ared
  * @Date: 2022-03-26 18:45:35
  * @LastEditors: ared
- * @LastEditTime: 2022-04-09 20:43:23
+ * @LastEditTime: 2022-04-10 16:34:47
  */
 
 // import './logic/array-rotate'
@@ -17,6 +17,8 @@
 // import './logic/binary-search-tree'
 // import './logic/fibonacci'
 // import './logic/move-zero'
-import './logic/continuous-char'
+// import './logic/continuous-char'
+// import './logic/quick-sort'
+import './logic/palindrome-number'
 
 console.log('index')
