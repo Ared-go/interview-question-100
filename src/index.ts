@@ -4,7 +4,7 @@
  * @Author: ared
  * @Date: 2022-03-26 18:45:35
  * @LastEditors: ared
- * @LastEditTime: 2022-04-10 16:34:47
+ * @LastEditTime: 2022-04-11 21:04:31
  */
 
 // import './logic/array-rotate'
@@ -19,6 +19,8 @@
 // import './logic/move-zero'
 // import './logic/continuous-char'
 // import './logic/quick-sort'
-import './logic/palindrome-number'
+// import './logic/palindrome-number'
+
+import './logic/thousands-format'
 
 console.log('index')
