@@ -4,7 +4,7 @@
  * @Author: ared
  * @Date: 2022-03-26 18:45:35
  * @LastEditors: ared
- * @LastEditTime: 2022-04-11 21:04:31
+ * @LastEditTime: 2022-04-13 20:46:56
  */
 
 // import './logic/array-rotate'
@@ -21,6 +21,7 @@
 // import './logic/quick-sort'
 // import './logic/palindrome-number'
 
-import './logic/thousands-format'
+// import './logic/thousands-format'
+// import './logic/switch-letter-case'
 
 console.log('index')
